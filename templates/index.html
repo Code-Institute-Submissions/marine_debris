@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marine Debris</title>
+    <link rel="stylesheet" href="{{ url_for ('static',
+    filename='lib/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static',
+    filename='lib/css/keen-dashboards.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/dc.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/bootstrap-tour.min.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='css/custom.css')}}">
+</head>
+<body class="application">
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="./">Marine Debris</a>
+            </div>
+        </div>
+    </div>
+    <div id="outer" class="container-fluid">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="row">
+                <!-- Time Chart -->
+                <div class="col-sm-12">
+                    <div class="chart-wrapper">
+                        <div class="chart-title">
+                            Timestamp
+                        </div>
+                    <div class="chart-stage">
+                <div id="time-chart"></div>
+             </div>
+        </div>
+    </div>
+                <!-- Time Chart -->
+                <!-- Location -->
+    <div class="col-sm-6">
+        <div class="chart-wrapper">
+            <div class="chart-title">
+              Total debris per location
+            </div>
+                <div class="chart-stage">
+                    <div id="location-row-chart"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Location -->
+                <!-- List Name -->
+                 <div class="col-sm-6">
+                     <div class="chart-wrapper">
+                        <div class="chart-title">
+                            Item
+                        </div>
+                            <div class="chart-stage">
+                                <div id="list-chart"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                 <!-- List Name -->
+                 <!-- Item Name -->
+    <div class="col-sm-4">
+        <div class="chart-wrapper">
+            <div class="chart-title">
+                 Item Name
+            </div>
+                <div class="chart-stage">
+                    <div id="item-type-row-chart"></div>
+                            </div>
+                        </div>
+                    </div>
+                 <!-- Item Name -->
+                 <!-- Quantity -->
+    <div class="col-sm-4">
+        <div class="chart-wrapper">
+             <div class="chart-title">
+                  Quantity
+             </div>
+                  <div class="chart-stage">
+                        <div id="quantity-chart"></div>
+                     </div>
+                 </div>
+            </div>
+                <!-- Quantity -->
+                <!-- menu select -->
+    <div class="col-sm-2">
+        <div class="chart-wrapper">
+            <div class="chart-title">
+                  Location
+            </div>
+                <div class="chart-stage">
+                    <div id="menu-select"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- menu select -->
+                <!-- Metric 1 -->
+    <div class="col-sm-2">
+        <div class="chart-wrapper">
+             <div class="chart-title">
+                 Total number of debris
+             </div>
+                 <div class="chart-stage" style="background: #33CC99;
+                        position: relative;
+                        font-size: 20px;
+                        color: white;
+                        vertical-align: middle;
+                        text-align: center;
+                        padding-top: 1px;
+                        padding-bottom: 1px;">
+                        <div id="number-projects-nd"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Metric 1 -->
+        </div>
+    </div>
+    <hr>
+    <p class="small text-muted"> Data viz &#9829; from Bogdan Vlad</p>
+    <script src="{{ url_for ('static', filename='lib/js/jquery.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/bootstrap.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/bootstrap-tour.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/crossfilter.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/d3.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/dc.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/queue.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/keen.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='js/graph.js')}}"></script>
+    <script src="{{ url_for ('static', filename='js/tour.js')}}"></script>
+</body>
+</html>
