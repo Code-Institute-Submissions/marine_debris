@@ -2,7 +2,7 @@ queue()
     .defer(d3.json, "/debris/projects")
     .await(makeGraphs);
 
-function makeGraphs(error, debrisprojects) {
+function makeGraphs(error, debrisProjects) {
     if (error) {
         console.error("makeGraphs error on receiving dataset:", error.statusText);
         throw error;
@@ -11,14 +11,14 @@ function makeGraphs(error, debrisprojects) {
 
 
     var dateFormat = d3.time.format("%Y-%m-%d");
-    debrisprojects.forEach(function () {
+    debrisProjects.forEach(function () {
        dateFormat(new Date('1483285220'));
     });
 
 
 
 
-    var ndx = crossfilter(debrisprojects);
+    var ndx = crossfilter(debrisProjects);
 
     var timestampDim = ndx.dimension(function (d) {
         return d["Timestamp"];
