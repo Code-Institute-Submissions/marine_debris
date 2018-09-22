@@ -4,34 +4,34 @@ https://sheltered-lake-66013.herokuapp.com
 
 #### Code Quality
 
-######  Correct use of HTML
-###### Correct use of CSS
-###### Correct use of JavaScript
-###### Correct use of D3-based visualisation libraries
-###### Correct use of Python
-###### Correct use of Flask
+- Correct use of HTML
+- Correct use of CSS
+- Correct use of JavaScript
+- Correct use of D3-based visualisation libraries
+- Correct use of Python
+- Correct use of Flask
 
 #### Usability
 
-###### Suitability for purpose
-###### Ease of use
-###### Information and Data Visualisation
-###### Defensive Design
+- Suitability for purpose
+- Ease of use
+- Information and Data Visualisation
+- Defensive Design
 
 #### Layout and Visual Impact
 
-###### Responsive Design
-###### Navigation
-###### Image Treatment
-###### Non-image Content
+- Responsive Design
+- Navigation
+- Image Treatment
+- Non-image Content
 
 #### Software Development Process
 
-###### Database integration
-###### Version Control
-###### Testing
-###### Documentation
-###### Deployment
+- Database integration
+- Version Control
+- Testing
+- Documentation
+- Deployment
 
 ### PROJECT GUIDELINES
 - The data that you choose to work with, should be stored in either an SQL database (preferably MySQL), or a noSQL database (preferably MongoDB)
