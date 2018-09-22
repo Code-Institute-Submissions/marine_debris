@@ -6,8 +6,8 @@ import json
 
 app = Flask(__name__)
 
-MONGO_URI = os.getenv('MONGODB_URI', 'mongodb://root:Bogdan***@ds157818.mlab.com:57818/heroku_tj9l6f4x')
-DBS_NAME = os.getenv('MONGO_DB_NAME', 'heroku_tj9l6f4x')
+MONGO_URI = os.getenv('MONGODB_URI', 'mongodb://root:xxxxxxxxxxxxxxx')
+DBS_NAME = os.getenv('MONGO_DB_NAME', 'xxxxxxxxxxxxxx')
 COLLECTION_NAME = 'projects'
 
 
