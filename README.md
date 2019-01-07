@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/bogdan-vlad/marine_debris.svg?branch=master)](https://travis-ci.org/bogdan-vlad/marine_debris)
+
+
+
+
 https://marine-debris.herokuapp.com/
 
 # Stream Two
