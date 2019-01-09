@@ -1,2 +1,2 @@
 language: javascript
-install: ant deps
+script: ant build
