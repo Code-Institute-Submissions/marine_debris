@@ -59,3 +59,13 @@ As you can see the name already suggests that this project is a graphical repres
 
 1. HTML5
 * [HTML5 is the latest evolution of the standard that defines HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+2. CSS3
+* [CSS3 is the latest evolution of the Cascading Style Sheets language](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+3. Flask
+* [Flask is a microframework for Python](http://flask.pocoo.org)
+4. Mongo
+* [MongoDB](https://www.mongodb.com)
+5. JavaScript
+* [A programming language](https://www.javascript.com)
+6. D3.js
+* [D3.js is a JavaScript library for manipulating documents based on data](https://d3js.org)
