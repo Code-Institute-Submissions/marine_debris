@@ -69,3 +69,8 @@ As you can see the name already suggests that this project is a graphical repres
 * [A programming language](https://www.javascript.com)
 6. D3.js
 * [D3.js is a JavaScript library for manipulating documents based on data](https://d3js.org)
+7. Bootstrap
+* [Bootstrap is an open source toolkit for developing with HTML, CSS, and JS](https://getbootstrap.com)
+
+# Testing
+[Travis CI](https://travis-ci.org) is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub. Open source projects may be tested at no charge via travis-ci.org. Private projects may be tested at travis-ci.com on a fee basis.
