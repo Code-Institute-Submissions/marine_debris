@@ -58,4 +58,4 @@ As you can see the name already suggests that this project is a graphical repres
 # Technologies used:
 
 1. HTML5
-..* 
+* [HTML5 is the latest evolution of the standard that defines HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
