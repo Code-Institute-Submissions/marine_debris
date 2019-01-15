@@ -5,7 +5,9 @@
 
 https://marine-debris.herokuapp.com/
 
-# Stream Two
+# PROJECT GUIDELINES
+
+## Stream Two
 
 #### Code Quality
 
