@@ -53,4 +53,9 @@ https://marine-debris.herokuapp.com/
 
 # Marine Debris
 
-As you can see the name already suggests that this project is a graphical representation of the marine debris, especially plastic in our waters all around the planet which continues to poison everything. The graphs above represent a real life debris quantities dumped in our oceans during on 1 year time around the planet. Apart the fact that this is my second project within Code Institute, I would like to make everyone aware of this damage by showing it to everybody.
+As you can see the name already suggests that this project is a graphical representation of the marine debris, especially plastic in our waters all around the planet which continues to poison the marine life and us. The graphs above represent a real life debris quantities which are dumped in our oceans during on 1 year time around the planet. Apart the fact that this is my second project within Code Institute, I would like to make everyone aware of this damage by showing it to everybody.
+
+# Technologies used:
+
+1. HTML5
+..* 
