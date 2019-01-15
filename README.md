@@ -49,3 +49,8 @@ https://marine-debris.herokuapp.com/
 - In addition to the README.md file, you may include in your repository supplementary documentation and/or other relevant supporting material for the assessor in any format that is automatically handled by web browsers, such as html, pdf, jpg, etc. Files in proprietary formats such as Microsoft doc/docx will be ignored; but this is generally not a hindrance, since the vast majority of formats can be easily exported to PDF.
 - Use Git & GitHub for version control. Each new piece of functionality should be in a separate commit.
 - You should deploy the final working version of your code to Heroku (or an alternative hosting platform that you are familiar with)
+
+
+# Marine Debris
+
+As you can see the name already suggests that this project is a graphical representation of the marine debris, especially plastic in our waters all around the planet which continues to poison everything. The graphs above represent a real life debris quantities dumped in our oceans during on 1 year time around the planet. Apart the fact that this is my second project within Code Institute, I would like to make everyone aware of this damage by showing it to everybody.
