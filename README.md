@@ -74,3 +74,4 @@ As you can see the name already suggests that this project is a graphical repres
 
 # Testing
 [Travis CI](https://travis-ci.org) is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub. Open source projects may be tested at no charge via travis-ci.org. Private projects may be tested at travis-ci.com on a fee basis.
+Travis badge can be seen above or [![here](https://travis-ci.org/bogdan-vlad/marine_debris.svg?branch=master)](https://travis-ci.org/bogdan-vlad/marine_debris) 
