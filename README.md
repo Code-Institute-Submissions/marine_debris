@@ -75,3 +75,8 @@ As you can see the name already suggests that this project is a graphical repres
 # Testing
 [Travis CI](https://travis-ci.org) is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub. Open source projects may be tested at no charge via travis-ci.org. Private projects may be tested at travis-ci.com on a fee basis.
 Travis badge can be seen above or here [![Build Status](https://travis-ci.org/bogdan-vlad/marine_debris.svg?branch=master)](https://travis-ci.org/bogdan-vlad/marine_debris) which means that my project has passed travis tests.
+
+# Credit
+[Code Institute](https://codeinstitute.net) - the course I'm taking
+
+[Kaggle](https://www.kaggle.com/) - is an online community of data scientists and machine learners, owned by Google, Inc. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
